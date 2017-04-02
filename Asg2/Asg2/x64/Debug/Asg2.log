@@ -1,0 +1,8 @@
+﻿  submit.cpp
+c:\users\lh532m15b\desktop\asg2\asg2\submit.cpp(615): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\lh532m15b\desktop\asg2\asg2\submit.cpp(630): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\lh532m15b\desktop\asg2\asg2\submit.cpp(630): warning C4267: 'argument': conversion from 'size_t' to 'GLint', possible loss of data
+c:\users\lh532m15b\desktop\asg2\asg2\submit.cpp(642): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\lh532m15b\desktop\asg2\asg2\submit.cpp(642): warning C4267: 'argument': conversion from 'size_t' to 'GLint', possible loss of data
+  Asg2.vcxproj -> C:\Users\LH532M15B\Desktop\Asg2\x64\Debug\Asg2.exe
+  Asg2.vcxproj -> C:\Users\LH532M15B\Desktop\Asg2\x64\Debug\Asg2.pdb (Partial PDB)

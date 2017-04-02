@@ -1,0 +1,23 @@
+﻿submit.obj : error LNK2019: unresolved external symbol __imp__glewInit@0 referenced in function "void __cdecl initializedGL(void)" (?initializedGL@@YAXXZ)
+submit.obj : error LNK2019: unresolved external symbol __imp__glutInitDisplayMode@4 referenced in function _main
+submit.obj : error LNK2019: unresolved external symbol __imp__glutMainLoop@0 referenced in function _main
+submit.obj : error LNK2019: unresolved external symbol __imp__glutPostRedisplay@0 referenced in function "void __cdecl paintGL(void)" (?paintGL@@YAXXZ)
+submit.obj : error LNK2019: unresolved external symbol __imp__glutKeyboardFunc@4 referenced in function _main
+submit.obj : error LNK2019: unresolved external symbol __imp__glutDisplayFunc@4 referenced in function _main
+submit.obj : error LNK2019: unresolved external symbol __imp__glutPassiveMotionFunc@4 referenced in function _main
+submit.obj : error LNK2019: unresolved external symbol __imp____glutInitWithExit@12 referenced in function _glutInit_ATEXIT_HACK@8
+submit.obj : error LNK2001: unresolved external symbol __imp____glewAttachShader
+submit.obj : error LNK2001: unresolved external symbol __imp____glewCompileShader
+submit.obj : error LNK2001: unresolved external symbol __imp____glewCreateProgram
+submit.obj : error LNK2001: unresolved external symbol __imp____glewCreateShader
+submit.obj : error LNK2001: unresolved external symbol __imp____glewDeleteShader
+submit.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramInfoLog
+submit.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramiv
+submit.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderInfoLog
+submit.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderiv
+submit.obj : error LNK2001: unresolved external symbol __imp____glewLinkProgram
+submit.obj : error LNK2001: unresolved external symbol __imp____glewShaderSource
+submit.obj : error LNK2001: unresolved external symbol __imp____glewUseProgram
+Dependencies\glew\glew32.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+Dependencies\freeglut\freeglut.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\LH532M15B\Desktop\Asg2\Debug\Asg2.exe : fatal error LNK1120: 20 unresolved externals

@@ -1,0 +1,11 @@
+﻿  submit.cpp
+c:\users\lh532m15b\desktop\csci3260_project\csci3260_project\submit.cpp(404): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\lh532m15b\desktop\csci3260_project\csci3260_project\submit.cpp(404): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\lh532m15b\desktop\csci3260_project\csci3260_project\submit.cpp(404): note: the missing variadic argument 1 is required by format string '%s'
+c:\users\lh532m15b\desktop\csci3260_project\csci3260_project\submit.cpp(751): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\lh532m15b\desktop\csci3260_project\csci3260_project\submit.cpp(759): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\lh532m15b\desktop\csci3260_project\csci3260_project\submit.cpp(774): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\lh532m15b\desktop\csci3260_project\csci3260_project\submit.cpp(788): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\lh532m15b\desktop\csci3260_project\csci3260_project\submit.cpp(791): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  csci3260_Project.vcxproj -> C:\Users\LH532M15B\Desktop\csci3260_Project\x64\Debug\csci3260_Project.exe
+  csci3260_Project.vcxproj -> C:\Users\LH532M15B\Desktop\csci3260_Project\x64\Debug\csci3260_Project.pdb (Partial PDB)
